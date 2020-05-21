@@ -6,6 +6,6 @@ dag:
     start_date: 2019-01-01T00:00:00Z
 
 say_hello:
-  - test
-  - ymal
+  - Test
+  - YMAL
   - Airflow
